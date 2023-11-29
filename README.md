@@ -1,11 +1,13 @@
-👋 Hello World! I'm Mohammed Nazim, a graduate in Bachelor of Computer Applications.
+# Hello World! 👋 I'm Mohammed Nazim.
 
-🚀 As a self-taught full-stack developer, my journey has been powered by Python and Django, shaping my skills in web development. From crafting seamless user experiences to building robust backend systems.
+🎓 Graduate in Bachelor of Computer Applications.
 
-🤖 Currently delving deep into Machine Learning and Artificial Intelligence.
+🚀 Self-taught full-stack developer powered by Python and Django. I love crafting seamless user experiences and building robust backend systems.
+
+🤖 Currently on a journey of learning about Machine Learning, AI, and Deep Learning. Exploring the wonders of intelligent systems and the magic of deep neural networks.
 
 💡 Fluent in the languages of code: C, C++, Java, JavaScript, SQL, Python. HTML and CSS are my artistic brushes for creating beautiful and responsive interfaces.
 
-🌐 Open-source enthusiast and version control wizard with Git.
-
 📚 Always a student, currently diving deeper into the ocean of knowledge through a dedicated course in Machine Learning.
+
+Let's connect, collaborate, and code something awesome together! 🚀
