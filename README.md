@@ -2,12 +2,12 @@
 
 🎓 Graduate in Bachelor of Computer Applications.
 
-🚀 Self-taught full-stack developer powered by Python and Django. I love crafting seamless user experiences and building robust backend systems.
+🚀 Self-taught full-stack developer powered by Python and Django.
 
-🤖 Currently on a journey of learning about Machine Learning, AI, and Deep Learning. Exploring the wonders of intelligent systems and the magic of deep neural networks.
+🤖 Currently on a journey of learning about Machine Learning, AI, and Deep Learning.
 
-💡 Fluent in the languages of code: C, C++, Java, JavaScript, SQL, Python. HTML and CSS are my artistic brushes for creating beautiful and responsive interfaces.
+💡 Fluent in the languages of code: C, C++, Java, JavaScript, SQL, Python. HTML and CSS.
 
 📚 Always a student, currently diving deeper into the ocean of knowledge through a dedicated course in Machine Learning.
 
-Let's connect, collaborate, and code something awesome together! 🚀
+Let's connect, collaborate, and code something awesome together! 
